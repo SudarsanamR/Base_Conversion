@@ -48,9 +48,9 @@ Example:
 
 | Base condition | Behavior |
 |---------------|----------|
-| |β| > 1 | Valid positional system |
-| |β| = 1 | Rejected |
-| |β| < 1 | Converted using reciprocal base γ = 1/β |
+| \|β\| > 1 | Valid positional system |
+| \|β\| = 1 | Rejected |
+| \|β\| < 1 | Converted using reciprocal base γ = 1/β |
 
 ---
 
